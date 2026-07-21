@@ -3,7 +3,7 @@ A multi-agent AI orchestration pipeline built to automate sales lead triage, enf
 # 🚀 Inbound Revenue Capture AI Employee
 **Supervity Autopilot Asia Hackathon Submission**
 
-**Developers:** Gafar Aamir Mukhtar |Shee Rashid Dina, Computer Science, Albukhary International University (AIU)
+**Developers:** Gafar Aamir Mukhtar |Shee Rashid Dina, Computer Science, Albukhary International University (AIU).
 
 ### 🎬 Live Execution Demo
 Watch the full end-to-end architecture and live execution in the demo video below:
